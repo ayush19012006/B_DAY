@@ -135,6 +135,30 @@
       object-fit: cover;
     }
     
+    .memory-photo {
+      width: 220px;
+      height: 220px;
+      background-color: white;
+      border: 8px solid #ff99cc;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+      margin: 20px auto;
+      transform: rotate(-3deg);
+      transition: transform 0.3s ease;
+      overflow: hidden;
+      display: none;
+    }
+    
+    .memory-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+    .memory-photo:hover {
+      transform: scale(1.05) rotate(0);
+      z-index: 10;
+    }
+    
     .hearts {
       position: fixed;
       top: 0;
@@ -209,7 +233,7 @@
     }
     
     .show {
-      display: block;
+      display: block !important;
       animation: fadeIn 1s;
     }
     
@@ -327,12 +351,18 @@
       
       <div class="memory-box" id="memory1">
         <h3>How I First Saw Her</h3>
-        <p>I first saw her back in 8th grade—she was just someone in the crowd, but something about her stood out. I didn’t know her name, and she didn’t know I existed, but I had a huge crush on her from that moment. I never got the courage to speak to her, and soon enough, we ended up in different sections.</p>
+        <p>I first saw her back in 8th grade—she was just someone in the crowd, but something about her stood out. I didn't know her name, and she didn't know I existed, but I had a huge crush on her from that moment. I never got the courage to speak to her, and soon enough, we ended up in different sections.</p>
+      </div>
+      <div class="memory-photo" id="photo1">
+        <img src="/api/placeholder/400/320" alt="First time seeing you">
       </div>
 
       <div class="memory-box" id="memory2">
         <h3>When Fate Brought Us Closer</h3>
-        <p>It was in the middle of 11th grade when everything changed. I couldn’t believe my eyes—she was in my class. That same smile, that same aura. I felt so happy just seeing her again. I chose the bench right behind hers, and slowly started teasing her, just to get her attention. Little by little, she began noticing me. I found out her name was Priya, and that evening, I couldn't wait—I sent her a request on Instagram.</p>
+        <p>It was in the middle of 11th grade when everything changed. I couldn't believe my eyes—she was in my class. That same smile, that same aura. I felt so happy just seeing her again. I chose the bench right behind hers, and slowly started teasing her, just to get her attention. Little by little, she began noticing me. I found out her name was Priya, and that evening, I couldn't wait—I sent her a request on Instagram.</p>
+      </div>
+      <div class="memory-photo" id="photo2">
+        <img src="/api/placeholder/400/320" alt="Fate bringing us together">
       </div>
 
       <div class="memory-box" id="memory3">
@@ -340,11 +370,17 @@
         <p>I still remember that day like it was yesterday — one of the best days of my life. We were sitting next to each other in the computer lab. I was busy with my work, completely focused… and then, out of nowhere, you kissed me on the cheek. Just for a second — barely even a moment — but my heart skipped a beat. And you? You acted like *kuch hua hi nahi*! That playful innocence, that surprise… it made my day unforgettable.</p>
         <p>Vo alag baat hai, ab to French kiss se bhi mann nahi bharta 😄</p>
       </div>
+      <div class="memory-photo" id="photo3">
+        <img src="/api/placeholder/400/320" alt="First kiss memory">
+      </div>
       
       <div class="memory-box" id="memory4">
         <h3>Teacher's Day — Our Special Moment</h3>
-        <p>Teacher's Day will always be special to me — not just for the celebration, but for *our* moment. That day, we shared our first perfect lip-to-lip kiss. It wasn’t rushed or awkward… it was peaceful, warm, and full of love. A moment I'll never forget.</p>
-        <p>And that wasn't all — for the first time, I lifted you in my arms. It was daring, I won’t lie 😅, but it felt amazing. That day was full of love, laughter, and memories I'll always cherish.</p>
+        <p>Teacher's Day will always be special to me — not just for the celebration, but for *our* moment. That day, we shared our first perfect lip-to-lip kiss. It wasn't rushed or awkward… it was peaceful, warm, and full of love. A moment I'll never forget.</p>
+        <p>And that wasn't all — for the first time, I lifted you in my arms. It was daring, I won't lie 😅, but it felt amazing. That day was full of love, laughter, and memories I'll always cherish.</p>
+      </div>
+      <div class="memory-photo" id="photo4">
+        <img src="/api/placeholder/400/320" alt="Teacher's Day special moment">
       </div>
 
       <div class="memory-box" id="memory5">
@@ -356,6 +392,9 @@
         <p>That memory will forever stay close to my heart. It reminds me that true love never gives up.
         </p>
       </div>
+      <div class="memory-photo" id="photo5">
+        <img src="/api/placeholder/400/320" alt="Overcoming challenges together">
+      </div>
 
       <div class="memory-box" id="memory6">
         <h3>Farewell Day - A New Beginning</h3>
@@ -366,11 +405,14 @@
         <p>That moment, that yes, that look in your eyes — it's forever etched in my heart.
         </p>
       </div>
+      <div class="memory-photo" id="photo6">
+        <img src="/api/placeholder/400/320" alt="Farewell day proposal">
+      </div>
 
       <div class="memory-box" id="memory7">
         <h3>When My Thumb Bone Broke - And You Were My Strength</h3>
         <p>
-          When my thumb broke, honestly, I didn't want to go to the hospital. All I wished for in that moment was *you*. I even told my mentor, “Let's wait, Priya is coming.” That's how badly I needed your presence.
+          When my thumb broke, honestly, I didn't want to go to the hospital. All I wished for in that moment was *you*. I even told my mentor, "Let's wait, Priya is coming." That's how badly I needed your presence.
         </p>
         <p>
           And then, you came. You sat beside me, and I still remember how you cried seeing me in pain. You didn't just visit — you stood by me like a pillar. You took the train with me to drop me home, making sure I was safe and that nothing hurt my hand further.
@@ -384,6 +426,9 @@
         <p>
           *Thank you so much. I Love You.*
         </p>
+      </div>
+      <div class="memory-photo" id="photo7">
+        <img src="/api/placeholder/400/320" alt="You caring for me during injury">
       </div>
     </div>
     
@@ -477,14 +522,21 @@
     // Show memories one by one
     document.getElementById('memoryBtn').addEventListener('click', function() {
       const memories = document.querySelectorAll('.memories .memory-box');
+      const photos = document.querySelectorAll('.memories .memory-photo');
       let delay = 0;
       
-      memories.forEach(memory => {
+      for (let i = 0; i < memories.length; i++) {
         setTimeout(() => {
-          memory.classList.add('show');
+          memories[i].classList.add('show');
+          
+          // Show the corresponding photo after a short delay
+          setTimeout(() => {
+            photos[i].classList.add('show');
+          }, 500);
+          
         }, delay);
-        delay += 1000;
-      });
+        delay += 1500; // Increased delay to account for showing both memory and photo
+      }
     });
     
     // Create confetti effect
