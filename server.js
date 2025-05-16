@@ -373,7 +373,7 @@ const htmlContent = `<!DOCTYPE html>
         <p>I first saw her back in 8th grade—she was just someone in the crowd, but something about her stood out. I didn't know her name, and she didn't know I existed, but I had a huge crush on her from that moment. I never got the courage to speak to her, and soon enough, we ended up in different sections.</p>
       </div>
       <div class="memory-photo" id="photo1">
-        <img src="/api/placeholder/400/320" alt="First time seeing you">
+        <img src="/img/img14.jpg" alt="First time seeing you">
       </div>
 
       <div class="memory-box" id="memory2">
@@ -381,7 +381,7 @@ const htmlContent = `<!DOCTYPE html>
         <p>It was in the middle of 11th grade when everything changed. I couldn't believe my eyes—she was in my class. That same smile, that same aura. I felt so happy just seeing her again. I chose the bench right behind hers, and slowly started teasing her, just to get her attention. Little by little, she began noticing me. I found out her name was Priya, and that evening, I couldn't wait—I sent her a request on Instagram.</p>
       </div>
       <div class="memory-photo" id="photo2">
-        <img src="/api/placeholder/400/320" alt="Fate bringing us together">
+        <img src="/img/img10.jpg" alt="Fate bringing us together">
       </div>
 
       <div class="memory-box" id="memory3">
@@ -390,7 +390,7 @@ const htmlContent = `<!DOCTYPE html>
         <p>Vo alag baat hai, ab to French kiss se bhi mann nahi bharta 😄</p>
       </div>
       <div class="memory-photo" id="photo3">
-        <img src="/api/placeholder/400/320" alt="First kiss memory">
+        <img src="/img/img11.jpg" alt="First kiss memory">
       </div>
       
       <div class="memory-box" id="memory4">
@@ -399,7 +399,7 @@ const htmlContent = `<!DOCTYPE html>
         <p>And that wasn't all — for the first time, I lifted you in my arms. It was daring, I won't lie 😅, but it felt amazing. That day was full of love, laughter, and memories I'll always cherish.</p>
       </div>
       <div class="memory-photo" id="photo4">
-        <img src="/api/placeholder/400/320" alt="Teacher's Day special moment">
+        <img src="/img/img9.jpg" alt="Teacher's Day special moment">
       </div>
 
       <div class="memory-box" id="memory5">
@@ -412,7 +412,7 @@ const htmlContent = `<!DOCTYPE html>
         </p>
       </div>
       <div class="memory-photo" id="photo5">
-        <img src="/api/placeholder/400/320" alt="Overcoming challenges together">
+        <img src="/img/img15.jpg" alt="Overcoming challenges together">
       </div>
 
       <div class="memory-box" id="memory6">
@@ -425,7 +425,7 @@ const htmlContent = `<!DOCTYPE html>
         </p>
       </div>
       <div class="memory-photo" id="photo6">
-        <img src="/api/placeholder/400/320" alt="Farewell day proposal">
+        <img src="/img/img12.jpg" alt="Farewell day proposal">
       </div>
 
       <div class="memory-box" id="memory7">
@@ -447,7 +447,7 @@ const htmlContent = `<!DOCTYPE html>
         </p>
       </div>
       <div class="memory-photo" id="photo7">
-        <img src="/api/placeholder/400/320" alt="You caring for me during injury">
+        <img src="/img/img13.jpg" alt="You caring for me during injury">
       </div>
     </div>
     
