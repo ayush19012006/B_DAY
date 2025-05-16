@@ -345,18 +345,64 @@ const htmlContent = `<!DOCTYPE html>
       <button class="wish-button" id="memoryBtn">Reveal Our Memories</button>
       
       <div class="memory-box" id="memory1">
-        <h3>Our Silly Sunglasses Photos</h3>
-        <p>I love how we can be completely ourselves together, rocking those cool sunglasses and making each other laugh. Your "I don't care" glasses perfectly match your fun personality!</p>
+        <h3>How I First Saw Her</h3>
+        <p>I first saw her back in 8th grade—she was just someone in the crowd, but something about her stood out. I didn’t know her name, and she didn’t know I existed, but I had a huge crush on her from that moment. I never got the courage to speak to her, and soon enough, we ended up in different sections.</p>
       </div>
-      
+
       <div class="memory-box" id="memory2">
-        <h3>That Beautiful Day in the Garden</h3>
-        <p>Sitting together under the palm leaves, holding each other close. Your long braid and the way you looked at me made my heart skip a beat.</p>
+        <h3>When Fate Brought Us Closer</h3>
+        <p>It was in the middle of 11th grade when everything changed. I couldn’t believe my eyes—she was in my class. That same smile, that same aura. I felt so happy just seeing her again. I chose the bench right behind hers, and slowly started teasing her, just to get her attention. Little by little, she began noticing me. I found out her name was Priya, and that evening, I couldn't wait—I sent her a request on Instagram.</p>
+      </div>
+
+      <div class="memory-box" id="memory3">
+        <h3>Our First Kiss</h3>
+        <p>I still remember that day like it was yesterday — one of the best days of my life. We were sitting next to each other in the computer lab. I was busy with my work, completely focused… and then, out of nowhere, you kissed me on the cheek. Just for a second — barely even a moment — but my heart skipped a beat. And you? You acted like *kuch hua hi nahi*! That playful innocence, that surprise… it made my day unforgettable.</p>
+        <p>Vo alag baat hai, ab to French kiss se bhi mann nahi bharta 😄</p>
       </div>
       
-      <div class="memory-box" id="memory3">
-        <h3>Our Matching Black Outfits</h3>
-        <p>Standing together in our formal wear, you looking absolutely stunning with your beautiful long hair and sweet smile. We make such a perfect pair!</p>
+      <div class="memory-box" id="memory4">
+        <h3>Teacher's Day — Our Special Moment</h3>
+        <p>Teacher's Day will always be special to me — not just for the celebration, but for *our* moment. That day, we shared our first perfect lip-to-lip kiss. It wasn’t rushed or awkward… it was peaceful, warm, and full of love. A moment I'll never forget.</p>
+        <p>And that wasn't all — for the first time, I lifted you in my arms. It was daring, I won’t lie 😅, but it felt amazing. That day was full of love, laughter, and memories I'll always cherish.</p>
+      </div>
+
+      <div class="memory-box" id="memory5">
+        <h3>The Toughest Day — But We Made It</h3>
+        <p>Then came one of the hardest days of our journey. My mom got a complaint about us — that we always sat together, always stayed close. That day, it felt like everything was going to end. I was scared... really scared.
+        </p>
+        <p>But look at us now — 4 years later, still together, stronger than ever. And the best part? My mom now sees you as my wife, my friend, my everything. That day was also the first time I cried in front of you. It broke me, but your presence healed me.
+        </p>
+        <p>That memory will forever stay close to my heart. It reminds me that true love never gives up.
+        </p>
+      </div>
+
+      <div class="memory-box" id="memory6">
+        <h3>Farewell Day - A New Beginning</h3>
+        <p>The day I had been waiting for since the beginning — our Farewell Day. That was the day I gathered all my courage and went down on one knee, holding a ring, and proposed to you. It became the most special day of our lives — the day we officially became a couple.
+        </p>
+        <p>You were looking absolutely stunning that day. Your hair, your smile, everything about you felt magical. But the way you looked in that saree — I swear, you looked no less than a model. I was completely lost in you. Sarees were made for you, truly.
+        </p>
+        <p>That moment, that yes, that look in your eyes — it's forever etched in my heart.
+        </p>
+      </div>
+
+      <div class="memory-box" id="memory7">
+        <h3>When My Thumb Bone Broke - And You Were My Strength</h3>
+        <p>
+          When my thumb broke, honestly, I didn't want to go to the hospital. All I wished for in that moment was *you*. I even told my mentor, “Let's wait, Priya is coming.” That's how badly I needed your presence.
+        </p>
+        <p>
+          And then, you came. You sat beside me, and I still remember how you cried seeing me in pain. You didn't just visit — you stood by me like a pillar. You took the train with me to drop me home, making sure I was safe and that nothing hurt my hand further.
+        </p>
+        <p>
+          Even though my hand still hasn't healed completely, you've never let me feel helpless — not even for a moment. You made sure I ate on time, cared for me more than anyone else ever did — even more than mom, maybe!
+        </p>
+        <p>
+          Honestly, if you had also given me a bath and helped with potty, I wouldn't be surprised — you were that caring 😄. Thank you for everything. For all the love, patience, and care. You made me feel whole, even when I couldn't use one hand.
+        </p>
+        <p>
+          *Thank you so much. I Love You.*
+        </p>
       </div>
     </div>
     
