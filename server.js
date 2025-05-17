@@ -453,7 +453,7 @@ const htmlContent = `<!DOCTYPE html>
     
     <div class="photo-gallery">
       <div class="photo-frame">
-        <img src="/img/img2.jpg" alt="Closeup selfie with red tops">
+        <img src="/img/img1.jpg" alt="Closeup selfie with red tops">
       </div>
       <div class="photo-frame">
         <img src="/img/img4.jpg" alt="Cool sunglasses selfie">
